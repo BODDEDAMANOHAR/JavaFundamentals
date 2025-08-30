@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.codegnan.controlstatements;
 
 import java.util.Scanner;
@@ -83,4 +84,15 @@ public class AtmExample {
 
         sc.close();
     }
+=======
+package com.codegnan.fundamentals;
+
+public class AtmExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+>>>>>>> 4e41725a0f358fb3aba39bb7297cdad1c72b2013
 }
